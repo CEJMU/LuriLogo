@@ -3,3 +3,15 @@
 Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung-Nichtkommerziell-Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Original Logo von [Eliseo Cailloux](https://github.com/Eleocraft/LuriLogo), Vektorisiert von Matthias Jung
+
+Original Logo immer so angeben:
+
+```
+CC BY-NC-SA 4.0 Eliseo Cailloux
+```
+
+Vektorform immer so angeben: 
+
+```
+CC BY-NC-SA 4.0 Eliseo Cailloux, Matthias Jung
+```
